@@ -1,5 +1,7 @@
 # Projeto XYZ
 
+![Tela inicial do projeto](assets/Projeto-Blizzard-Codeboost-redme)
+
 ## Descrição
 
 Projeto que traz o Gulp como protagonista, trazendo automatização de funções e ferramentas essenciais para o desenvolvimento do projeto.
@@ -33,6 +35,6 @@ Projeto que traz o Gulp como protagonista, trazendo automatização de funções
 #### Caso tenha alguma dica, dúvida ou outras questões, entre em contado
 
 E-mail: williankatz@gmail.com
-Instagram: https://www.instagram.com/katzwillian/
+<i class="fab fa-instagram">https://www.instagram.com/katzwillian/</i>
 Linkedin: www.linkedin.com/in/willian-katz
 
