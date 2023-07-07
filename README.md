@@ -1,4 +1,4 @@
-# Projeto XYZ
+# Projeto Blizzard
 
 ![Tela inicial do projeto](/assets/Projeto-Blizzard-Codeboost-redme.png)
 
