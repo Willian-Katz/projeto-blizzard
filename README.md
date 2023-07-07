@@ -1,6 +1,6 @@
 # Projeto XYZ
 
-![Tela inicial do projeto](assets/Projeto-Blizzard-Codeboost-redme)
+![Tela inicial do projeto](/assets/Projeto-Blizzard-Codeboost-redme.png)
 
 ## Descrição
 
